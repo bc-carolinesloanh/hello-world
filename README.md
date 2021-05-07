@@ -3,3 +3,5 @@ just another repository
 
 new line added - in github
 new line added - in terminal with vi
+
+new line added - in terminal with vi - friday
